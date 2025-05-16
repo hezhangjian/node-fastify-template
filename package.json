@@ -1,0 +1,8 @@
+{
+  "name": "npm-package-name",
+  "version": "0.0.1",
+  "devDependencies": {
+    "@types/node": "^22.15.18",
+    "typescript": "^5.8.3"
+  }
+}
